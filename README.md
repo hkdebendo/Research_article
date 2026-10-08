@@ -1,6 +1,6 @@
 # Article scientifique — HonestAlpha
 
-**Titre provisoire :** *Does Deep Learning Beat Simple Baselines for Cross-Sectional Return Prediction?*
+**Titre :** *Does Deep Learning Beat Simple Baselines for Cross-Sectional Return Prediction?*
   *A Rigorous Walk-Forward Study on Liquid ETFs*  
 **Version française :** *Le deep learning bat-il les modèles simples pour la prédiction de rendements
   transversaux ? Une étude walk-forward rigoureuse sur des ETF liquides*
@@ -236,8 +236,7 @@ plus puissants — toujours avec le protocole de l'étude actuelle.
 
 ---
 
-*Version courte de la section 14 du dépôt HonestAlpha (doc / detail.md). L'article complet,
-  avec figures, figures annexes et LaTeX, sera fourni dans le dépôt.*
+*Lien du projet : https://github.com/hkdebendo/Honest_Alpha_1*
 
 
 

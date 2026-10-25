@@ -1,4 +1,4 @@
-# Article scientifique — HonestAlpha
+# HonestAlpha version : 1.0
 
 **Titre :** *Does Deep Learning Beat Simple Baselines for Cross-Sectional Return Prediction?*
   *A Rigorous Walk-Forward Study on Liquid ETFs*  
